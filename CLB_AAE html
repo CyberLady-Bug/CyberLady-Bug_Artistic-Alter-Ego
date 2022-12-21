@@ -66,8 +66,8 @@
 		 
 		 <div class="author">
 		 <figure>
-		 <a href="#"><img src="img/domek 2 edycja.jpg" alt="Dlaczego literatura?"></a>
-		 <figcaption>Dom tysiąca dobrych słów</figcaption>
+		 <a href="#"><img src="img/serce.jpg" alt="Dlaczego literatura?"></a>
+		 <figcaption>Rymowanki dla Joanki</figcaption>
 		 
 		 </figure>
 		 
@@ -76,8 +76,8 @@
 		 
 		 <div class="author">
 		 <figure>
-		 <a href="#"><img src="img/domek 2 edycja.jpg" alt="Dlaczego literatura?"></a>
-		 <figcaption>Dom tysiąca dobrych słów</figcaption>
+		 <a href="#"><img src="img/Pierniki.jpg" alt="Dlaczego literatura?"></a>
+		 <figcaption>Proza dla młodszych i najmłodszych</figcaption>
 		 
 		 </figure>
 		 
@@ -86,8 +86,8 @@
 		 
 		 <div class="author">
 		 <figure>
-		 <a href="#"><img src="img/domek 2 edycja.jpg" alt="Dlaczego literatura?"></a>
-		 <figcaption>Dom tysiąca dobrych słów</figcaption>
+		 <a href="#"><img src="img/Studio nagrań.jpg" alt="Dlaczego literatura?"></a>
+		 <figcaption>Piosenki</figcaption>
 		 
 		 </figure>
 		 
@@ -96,8 +96,8 @@
 		 
 		 <div class="author">
 		 <figure>
-		 <a href="#"><img src="img/domek 2 edycja.jpg" alt="Dlaczego literatura?"></a>
-		 <figcaption>Dom tysiąca dobrych słów</figcaption>
+		 <a href="#"><img src="img/dłoń z kwiatkiem.jpg" alt="Dlaczego literatura?"></a>
+		 <figcaption>Wiersze</figcaption>
 		 
 		 </figure>
 		 
@@ -105,15 +105,14 @@
 		 
 		 <div class="author">
 		 <figure>
-		 <a href="#"><img src="img/domek 2 edycja.jpg" alt="Dlaczego literatura?"></a>
-		 <figcaption>Dom tysiąca dobrych słów</figcaption>
+		 <a href="#"><img src="img/OPzD.jpg" alt="Dlaczego literatura?"></a>
+		 <figcaption>Opowieści dziwnej treści</figcaption>
 		 
 		 </figure>
 		 
 		 </div>
-		 
-		         </div>
-				 
+		
+		       
 		   </section> 
 		   
 		 <section id="newest">
@@ -131,7 +130,7 @@
 			  </div>
 			  <div class="entrytxt">
 			  <h2>Dobre słowo to danie główne.</h2>
-			  <p id="wpisblogowy">Jest takie powiedzenie: "Poczęstować dobrym słowem". Co ciekawe, używa się go sarkastycznie, czyli wcale nie znaczy, to co znaczy :) A wręcz przeciwnie. Gdy ktoś używa takiego zwrotu, mówi ni mniej, ni więcej tylko to, że ktoś był dla niego bardzo niemiły. Dlaczego więc w naszym języku powstał taki idiom? </p>
+			  <p id="wpisblogowy">Jest takie powiedzenie: "Poczęstować kogoś dobrym słowem". Co ciekawe, używa się go sarkastycznie, czyli wcale nie znaczy, to co znaczy :) A wręcz przeciwnie. Gdy ktoś używa takiego zwrotu, mówi ni mniej, ni więcej tylko to, że ktoś był dla niego bardzo niemiły. Dlaczego więc w naszym języku powstał taki idiom? </p>
 			  </div>
 		 </div>
 			
