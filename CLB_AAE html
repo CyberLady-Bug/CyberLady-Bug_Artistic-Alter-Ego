@@ -28,7 +28,8 @@
 	<h1 class="logo">CyberLady-Bug _ Artistic Alter Ego </h1>
 	<h2 class="logo2"> Blog literacki</h2>
 	
-	<nav> 
+	<nav id="topnav"> 
+	
 	    <ul class="menu">
 	       <li><a href="#">Strona Główna</a></li>
 	       <li><a href="#">Testerskie Alter Ego</a></li>
@@ -168,7 +169,7 @@
 							
 			                <div class="entrytxt">
 			                     <h2>Ty, weź te metafory...</h2>
-			                     <p>Cóż zrobić, jak się w głowie wciąż plączą te środki stylistyczne i nie pozwalają patrzeć twardo na rzeczywistość. </p>
+			                     <p>Cóż zrobić, jak się w głowie wciąż plączą te środki stylistyczne i nie pozwalają patrzeć twardo na rzeczywistość. Wszystko rozmywa się w obrazach, myśli wędrują po bezdrożach światów.</p>
 			                </div>
 			  
 		                </div>
