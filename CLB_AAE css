@@ -7,10 +7,12 @@ body
     font-size: 17px;
 }
 
+
+
 h1.logo
 {
 	
-	font_weidth: 700;
+	font-weight: 700;
 	color: 	#FFEFD5;
 	text-align: center;
 	letter-spacing: 5px;
@@ -31,12 +33,12 @@ h2.logo2
 	margin-bottom: 40px;
 }
 
-nav
+#topnav
 {
-	background-color:	#800080;
+	background-color: #800080;
 	text-align: center;
-	
 }
+
 
 .menu
 {
@@ -81,6 +83,11 @@ nav
 	
 }
 
+.categoris p
+{
+	font-size: 25px
+}
+
 h1
 {
 	font-size: 35px;
@@ -89,10 +96,7 @@ h1
 	font-weight: 400px
 }
 
-p
-{
-   font-size: 25px;	
-}
+
 
 .author
 {
@@ -103,6 +107,7 @@ p
 .author a
 {
 	opacity: 1;
+	
 }
 
 .author a:hover
@@ -121,6 +126,7 @@ figcaption
 {
   margin-top: 8px;
   padding: 0;
+  
 }
 
 .entries
@@ -143,7 +149,7 @@ figcaption
 .entry
 {
 	background-color:#800080;
-	padding: 10px;
+	padding: 3px;
 	text-align: justify;
 	margin-top: 40px;
 	border-radius: 10px;
@@ -152,21 +158,76 @@ figcaption
 .entryimg
 {
 	display: inline-block;
-	margin-left: 8px;
-	margin-right: 10px;
-	
+	margin-left: 10px;
+	width: 110px;
+	padding: 10px;
+	margin-top: 10px;
 }
 
 .entryimg img
 {
 	width: 90px;
 	height: 90px;
-	margin-bottom: 40px;
+	border-radius: 5px;
+
 }
 
 .entrytxt
 {
 	display: inline-block;
-	width: 800px;
+	width: 750px;
+	font-size: 16px;
+	padding-bottom: 2px;
 }
 
+h2
+{
+	font-size: 20px;
+	font-weight: 400;
+	color: #FFEFD5;
+}
+
+.contact
+{
+    margin-left: auto;
+	margin-right: auto;
+	width: 950px;
+	text-align:center;	
+	padding-bottom: 70px;
+	margin-bottom: 50px;
+}
+
+
+.contact p
+{
+	margin-bottom: 50px;
+}
+
+
+.bluebutton
+{
+	background-color:#00008B;
+	padding: 15px;
+	color: #efefef;
+	font-size: 19px;
+	text-decoration: none;
+	border-radius: 10px;
+	min-width: 300px;
+
+}
+
+.bluebutton:hover
+{
+	background-color: #0000CD;
+}
+
+.rectangle
+{
+	font-size: 20px;
+	width: auto;
+	margin: 5px;
+	padding: 8px;
+	text-align: center;
+	background-color:	#191970;
+	margin-bottom: 50px;
+}
